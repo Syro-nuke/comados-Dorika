@@ -9,3 +9,4 @@ Comandos Dorika bot
 <br>!dm
 <br>!rengoku
 <br>!addreac
+<br>!Adm
