@@ -1,12 +1,13 @@
 # comados-Dorika
 Comandos Dorika bot
-<br>1-!Oi_Dorika
-<br>2-!clean (somente adms)
-<br>3-!ban (somente adms)
-<br>!loritta
-<br>!sayonara
-<br>!daryki
-<br>!dm
-<br>!rengoku
-<br>!addreac
-<br>!Adm
+<br>!Oi_Dorika
+<br>!clean (somente adms)
+<br>!ban (somente adms)
+<br>d!loritta
+<br>d!sayonara
+<br>d!daryki
+<br>d!dm
+<br>d!rengoku
+<br>d!addreac
+<br>d!Adm
+<br>d!obs
