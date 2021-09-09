@@ -11,3 +11,4 @@ Comandos Dorika bot
 <br>d!addreac
 <br>d!Adm
 <br>d!obs
+<br>d!emoji
